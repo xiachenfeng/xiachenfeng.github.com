@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://xiachenfeng.github.com/atom.xml" rel="self"/>
   <link href="http://xiachenfeng.github.com/"/>
-  <updated>2013-07-07T16:05:45+08:00</updated>
+  <updated>2013-07-07T21:20:30+08:00</updated>
   <id>http://xiachenfeng.github.com/</id>
   <author>
     <name><![CDATA[xiachenfeng]]></name>
@@ -14,30 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[new post]]></title>
-    <link href="http://xiachenfeng.github.com/blog/2013/07/05/new-post/"/>
-    <updated>2013-07-05T15:35:00+08:00</updated>
-    <id>http://xiachenfeng.github.com/blog/2013/07/05/new-post</id>
-    <content type="html"><![CDATA[<p>test xiachenfeng
-夏晨风</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ test first post]]></title>
-    <link href="http://xiachenfeng.github.com/blog/2012/12/13/test-first-post/"/>
-    <updated>2012-12-13T15:27:00+08:00</updated>
-    <id>http://xiachenfeng.github.com/blog/2012/12/13/test-first-post</id>
-    <content type="html"><![CDATA[<p>test from debian git vim</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[first post]]></title>
     <link href="http://xiachenfeng.github.com/blog/2012/12/11/first-post/"/>
     <updated>2012-12-11T17:57:00+08:00</updated>
     <id>http://xiachenfeng.github.com/blog/2012/12/11/first-post</id>
-    <content type="html"><![CDATA[<p>test</p>
+    <content type="html"><![CDATA[<p>first blogroll for test</p>
 ]]></content>
   </entry>
   
