@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ml | My Octopress Blog]]></title>
+  <link href="http://xiachenfeng.github.com/blog/categories/ml/atom.xml" rel="self"/>
+  <link href="http://xiachenfeng.github.com/"/>
+  <updated>2013-07-07T15:34:43+08:00</updated>
+  <id>http://xiachenfeng.github.com/</id>
+  <author>
+    <name><![CDATA[xiachenfeng]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[first post]]></title>
+    <link href="http://xiachenfeng.github.com/blog/2012/12/11/first-post/"/>
+    <updated>2012-12-11T17:57:00+08:00</updated>
+    <id>http://xiachenfeng.github.com/blog/2012/12/11/first-post</id>
+    <content type="html"><![CDATA[<p>test</p>
+]]></content>
+  </entry>
+  
+</feed>
