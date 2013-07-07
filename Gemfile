@@ -1,7 +1,9 @@
 source "http://rubygems.org"
+LANG="zh_CN.UTF-8"
+LC_ALL="zh_CN.UTF-8"
 
 group :development do
-  gem 'rake', '~> 0.9.2'
+  gem 'rake', '~> 0.9.6'
   gem 'rack', '~> 1.4.1'
   gem 'jekyll', '~> 0.11.2'
   gem 'rdiscount', '~> 1.6.8'
